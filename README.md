@@ -29,9 +29,11 @@ It provides quick insights into:
 
 ---
 ## Project Demo
-Project URL https://github.com/monaismail7/DevOps-Projects
+
+Project URL https://roadmap.sh/projects/server-stats
+
+Project Demo https://github.com/monaismail7/DevOps-Projects
 
 How to Run
 chmod +x server-stats.sh
 ./server-stats.sh
-
