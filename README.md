@@ -28,9 +28,10 @@ It provides quick insights into:
 ![Server Stats](images/server2.png)
 
 ---
+## Project Demo
 
-## 🚀 Usage
-
+### How to Run
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
+
