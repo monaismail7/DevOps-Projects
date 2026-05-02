@@ -29,9 +29,9 @@ It provides quick insights into:
 
 ---
 ## Project Demo
-https://github.com/monaismail7/DevOps-Projects
-### How to Run
-```bash
+Project URL https://github.com/monaismail7/DevOps-Projects
+
+How to Run
 chmod +x server-stats.sh
 ./server-stats.sh
 
