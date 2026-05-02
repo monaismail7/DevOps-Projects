@@ -29,7 +29,7 @@ It provides quick insights into:
 
 ---
 ## Project Demo
-
+https://github.com/monaismail7/DevOps-Projects
 ### How to Run
 ```bash
 chmod +x server-stats.sh
